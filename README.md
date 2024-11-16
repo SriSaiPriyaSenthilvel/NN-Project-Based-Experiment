@@ -106,15 +106,23 @@ plt.imshow(img_28_gray_scaled.reshape(28,28),cmap='gray')
 ## Output:
 
 Training Loss and Validation Loss
+
+
 ![image](https://github.com/user-attachments/assets/5608d32f-1756-4aff-82f2-791eb93acfa0)
 ![image](https://github.com/user-attachments/assets/640c3780-36fd-4ecb-9c28-1cbf5ba27c7b)
 
 Classification Report
+
+
 ![image](https://github.com/user-attachments/assets/3ab6b3b5-9f8b-4acc-921c-11cbbfc6bf52)
 
 Confusion Matrix
+
+
 ![image](https://github.com/user-attachments/assets/702bee0d-7eb1-47c9-af6f-dd345241a18c)
 
 New Sample Data Prediction
+
+
 ![image](https://github.com/user-attachments/assets/e51f6f65-2539-48a6-9480-deaae8205869)
 ![image](https://github.com/user-attachments/assets/bc6a5922-21da-4e7c-879c-2948e6f01925)
